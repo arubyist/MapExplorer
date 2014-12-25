@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+kramdown:
+  use_coderay: true
+  coderay:
+    coderay_line_numbers: nil
+    coderay_css: class
+
+highlighter: pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Maps Explorer 
+tagline:          'Exploring the World'
+description:      'Exploring Online Maps'
+markdown_ext:     "markdown,mkdown,mkdn,mkd,md"
+
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+
+baseurl: "/MapExplorer"
