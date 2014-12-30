@@ -5,7 +5,7 @@ title: About
 
 <p>Hi! This is my Maps Blog. I'm learning about all kinds of maps online, such as <a href="http://leafletjs.com/">Leaflet</a>, <a href="https://www.mapbox.com/">Mapbox</a>, among others.</p>
 
-<p>I thought it would be fun to document a bit of my journey in learning about maps and their features/details.</p>
+<p>I thought it would be fun to document a bit of my journey in learning about maps and their features/details and also of other tutorials and articles on the same topics. </p>
 
 <p>This journey started by accident when I had a project that involved documenting properties for a department in a non-profit. I became interested in bits and pieces of the world of online mapping.</p>
 
