@@ -79,8 +79,6 @@ To sum up: this is all the code that was used to create this map and its popup.
 
 {% highlight javascript %}
 
-<script>
-
 var map = L.map('map').setView([34.049774, -118.241710], 17); 
 
 mapLink =
@@ -89,10 +87,6 @@ mapLink =
 			
 
 var marker = L.marker([34.049774, -118.241710]).addTo(map).bindPopup("<b><a href='http://cafedemitasse.com/'>Demitasse Cafe!</a></b><br />").openPopup();
-
-
-</script>
-
 
 
 {% endhighlight %}
