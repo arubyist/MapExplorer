@@ -84,7 +84,7 @@ var cIcon = L.Icon.extend({
 			}
 		});
 
-		var coffeeIcon = new cIcon({iconUrl: '../images/cute_coffee_cup.png'});
+		var coffeeIcon = new cIcon({iconUrl: '{{site.url}}/images/cute_coffee_cup.png'});
 
 		var marker = L.marker([33.991099, -118.466901], {icon:coffeeIcon}).bindPopup("<a href='http://www.intelligentsiacoffee.com/'>Intelligentsia</a>").addTo(map_custom); 
 
