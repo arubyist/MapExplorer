@@ -23,7 +23,7 @@ You can use it for
 - Compilation 
 - [And so much more!](http://gruntjs.com/plugins)
 
-They have an huge ecyosytem of plug-ins and anything you think of, it's bound to be there. 
+They have an huge ecosystem of plug-ins and anything you think of, it's bound to be there. 
 
 All righty! Let's fire up that much beloved and trusty console! 
 
